@@ -1,0 +1,26 @@
+AI-Powered ARV Safety Checker
+
+Project Description
+
+This project aims to identify potential drug-drug interactions involving antiretroviral (ARV) medicines.
+
+Technologies
+
+- Python
+- Artificial Intelligence
+- Natural Language Processing (NLP)
+- Graph Neural Networks (GNNs) - proposed enhancement
+
+Main Features
+
+- Medicine information input
+- Potential interaction checking
+- Safety alerts and explanations
+
+Disclaimer
+
+This is an educational prototype. It is not intended for clinical use. Medicine interaction results must be verified by qualified healthcare professionals using trusted medical references.
+
+Setup
+
+Python 3 is required. Setup instructions and dependencies will be added with the prototype code.
